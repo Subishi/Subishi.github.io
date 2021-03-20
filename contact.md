@@ -12,3 +12,6 @@ Sonar: http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/con
 Discord: Subishi#2797 (might not check for months)
 
 Please consider sending me an email before sending a message on matrix.
+
+---
+Of course you can message me anywhere else as well, but I would prefer these places if possible.
