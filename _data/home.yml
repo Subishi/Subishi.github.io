@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: about
+  - title: C
     url: about
 
   - title: blog
@@ -7,6 +7,9 @@ navbar_entries:
 
   - title: website
     url: https://www.abhinav.co
+
+  - title: contact
+    url: contact
 
 project_entries:
   - title: Project 1
